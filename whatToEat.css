@@ -1,0 +1,25 @@
+body{
+	margin: 0;
+	padding: 10%;
+	max-width: 100%;
+}
+#button{
+	display: block;
+	width: 80px;
+	height: 40px;
+	line-height: 40px;
+	margin: 0 auto;
+	border: 1px solid #ddd;
+	border-radius: 15px;
+	background-color: orange;
+	color: #fff;
+	font-size: 18px;
+}
+#display{
+	width: 80px;
+	height: 40px;
+	line-height: 40px;
+	margin: 0 auto;
+	margin-top: 50px;
+	text-align: center;
+}
